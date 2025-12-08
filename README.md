@@ -12,10 +12,10 @@
   <a href="mailto:andres.serrano.puebla@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
   </a>
-  <a href="https://www.linkedin.com/in/andrés-serrano-00b758345">
+  <a href="https://www.linkedin.com/in/andrés-serrano-00b758345" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
   </a>
-  <a href="https://andressp23.github.io/Portafolio-AndresSP23/">
+  <a href="https://andressp23.github.io/Portafolio-AndresSP23/" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-1F2937?style=for-the-badge&logo=About.me&logoColor=ffffff" height="25"/>
   </a>
 </div>
@@ -40,8 +40,6 @@ Soy **Andrés Serrano**, Desarrollador de Software Full Stack con enfoque en la 
     <img src="https://skillicons.dev/icons?i=git,github,docker,js,ts,java,spring,angular,html,css,postgres,vscode,idea" />
   </a>
 </div>
-
----
 
 
 
