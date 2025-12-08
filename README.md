@@ -43,16 +43,7 @@ Soy **Andrés Serrano**, Desarrollador de Software Full Stack enfocado en la **e
 
 ---
 
-## 🏆 Proyectos Destacados (¡Demuestra tu Impacto!)
 
-Los reclutadores priorizan ver el resultado de tu trabajo. Asegúrate de incluir enlaces a repositorios públicos.
-
-| Proyecto | Impacto y Stack | Link |
-| :--- | :--- | :--- |
-| **Sistema de Gimnasios** | Sistema full-stack para gestión de membresías, aplicado **Java/Spring Boot** en el backend. | [Ver Repo](URL_DE_TU_REPO) |
-| **[Nombre del Proyecto 2]** | [Describe brevemente qué problema resolvió o qué funcionalidad tiene]. | [Ver Repo](URL_DE_TU_OTRO_REPO) |
-
----
 
 
 
