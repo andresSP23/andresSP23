@@ -27,7 +27,7 @@
 Soy **Andrés Serrano**, Desarrollador de Software Full Stack con enfoque en la **arquitectura backend (Java/Spring)** y el desarrollo de **aplicaciones empresariales con Angular**. Mi principal objetivo es optimizar el rendimiento y la escalabilidad, transformando requerimientos de negocio en soluciones funcionales.
 
 * 🎯 **Experiencia Clave:** Desarrollo de APIs RESTful robustas y optimización de bases de datos.
-* 🔭 **Actualmente trabajando en:** **Sistema de Administración de Gimnasios** (aplicando patrones de diseño y arquitectura hexagonal).
+* 🔭 **Actualmente trabajando en:** **Sistema de Administración de Gimnasios**.
 * 🌱 **Explorando:** Patrones de diseño avanzados y servicios en la nube (AWS/Azure).
 * 🤝 **Busco:** Oportunidades desafiantes que permitan crecimiento profesional en el ámbito del desarrollo de software.
 
