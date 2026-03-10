@@ -75,11 +75,6 @@ Soy **Andrés Serrano**, **Desarrollador de Software** con enfoque en arquitectu
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andresSP23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresSP23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-</div>
 
 <br>
 
