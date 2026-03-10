@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=ANDRÉS%20SERRANO&fontSize=85&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20de%20Software%20Full%20Stack&descAlignY=55&descAlign=50&fontColor=ffffff&descColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=ANDRÉS%20SERRANO&fontSize=85&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20de%20Software%20%7C%20Backend%20%26%20Frontend&descAlignY=55&descAlign=50&fontColor=ffffff&descColor=ffffff" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=750&lines=👨‍💻+Desarrollador+de+Software+Full+Stack;⚙️+Especialista+en+APIs+con+Spring+Boot;🌐+Desarrollo+Front+End+con+Angular+%26+PHP;🚀+Creando+sistemas+escalables+y+robustos;💡+Apasionado+por+la+tecnología+y+la+innovación" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=750&lines=👨‍💻+Desarrollador+de+Software;⚙️+Especialista+en+APIs+con+Spring+Boot;🐘+Backend+con+PHP+%26+Laravel;🌐+Desarrollo+Frontend+con+Angular;☁️+Cloud+con+AWS+%26+CI%2FCD;🚀+Creando+sistemas+escalables+y+robustos" alt="Typing SVG" />
   </a>
 </div>
 
@@ -28,44 +28,39 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
-
 ### 👨‍💻 Sobre mí
 
-Soy **Andrés Serrano**, **Desarrollador de Software Full Stack** con enfoque en arquitectura backend con **Java/Spring Boot** y desarrollo de aplicaciones empresariales con **Angular** y **PHP**. Me apasiona transformar requerimientos de negocio en soluciones técnicas eficientes, escalables y de alto impacto.
+Soy **Andrés Serrano**, Desarrollador de Software con enfoque en arquitectura backend con **Java / Spring Boot** y desarrollo de aplicaciones empresariales con **Angular** y **PHP**. Me apasiona transformar requerimientos de negocio en soluciones técnicas eficientes y escalables.
 
-<br>
-
-- 🚀 &nbsp;**Experiencia clave:** APIs RESTful robustas y optimización de bases de datos
-- 🛠️ &nbsp;**Trabajando en:** Sistema de Administración de Gimnasios
-- 🐘 &nbsp;**Backend:** Java · Spring Boot · PHP · Laravel
-- 💡 &nbsp;**Explorando:** Patrones de diseño avanzados · AWS · Azure
-- 🤝 &nbsp;**Busco:** Oportunidades desafiantes de crecimiento profesional
-- 📍 &nbsp;**Ecuador** 🇪🇨
-
-<br><br><br>
+- 🚀 **Experiencia clave:** APIs RESTful robustas y optimización de bases de datos
+- 🛠️ **Trabajando en:** Sistema de Administración de Gimnasios
+- 🐘 **Backend:** Java · Spring Boot · PHP · Laravel
+- ☁️ **Cloud & DevOps:** AWS · Docker · CI/CD · GitHub Actions · Jenkins
+- 💡 **Explorando:** Patrones de diseño avanzados · AWS · Azure · CI/CD
+- 🤝 **Busco:** Oportunidades desafiantes de crecimiento profesional
+- 📍 **Ecuador** 🇪🇨
 
 ---
 
 <h2 align="center">🛠️ Stack Tecnológico</h2>
 
-<h4 align="center">Backend</h4>
+<h4 align="center">⚙️ Backend</h4>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,php,laravel&theme=dark&perline=4" />
 </div>
 
 <br>
 
-<h4 align="center">Frontend</h4>
+<h4 align="center">🌐 Frontend</h4>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css&theme=dark&perline=5" />
 </div>
 
 <br>
 
-<h4 align="center">Bases de datos & DevOps & Herramientas</h4>
+<h4 align="center">🗄️ Bases de datos · DevOps · Cloud · CI/CD</h4>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,docker,git,github,vscode,idea&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=postgres,docker,aws,githubactions,jenkins,git,github,vscode,idea&theme=dark&perline=5" />
 </div>
 
 <br>
@@ -83,7 +78,7 @@ Soy **Andrés Serrano**, **Desarrollador de Software Full Stack** con enfoque en
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andressp23&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andressp23&theme=tokyonight&hide_border=true" />
 </div>
 
 <br>
@@ -92,4 +87,8 @@ Soy **Andrés Serrano**, **Desarrollador de Software Full Stack** con enfoque en
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+</div>
+
+<div align="center">
+  <p>🔥 <strong>¡Conectemos!</strong> Listo para el siguiente desafío. Contáctame para discutir oportunidades de colaboración.</p>
 </div>
