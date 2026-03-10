@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
   </a>
   &nbsp;
-  <a href="https://andressp23.github.io/Portafolio-AndresSP23/" target="_blank">
+  <a href="https://andressp23.github.io/portafolio-andres-serrano-2026/" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-111827?style=for-the-badge&logo=About.me&logoColor=white" height="32" />
   </a>
 </div>
